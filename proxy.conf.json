@@ -1,0 +1,8 @@
+{
+    "/api/*":{
+        "target":"https://regional-florida-fergim92.koyeb.app/",
+        "secure": false,
+        "logLevel": "debug"
+
+    }
+}
